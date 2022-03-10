@@ -9,9 +9,9 @@
 #contenitorefoto {
 
     background-color: rgb(183, 185, 185);
-    padding-top: 40px; 
+    padding-top: 20px; 
     padding-right: 30px; 
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     padding-left: 30%;
    
     
@@ -19,7 +19,7 @@
     ;
     }
 #centro{
-      margin: 2% ;
+      margin-left: 15%;
      
 }
 
